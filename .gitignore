@@ -1,0 +1,8 @@
+node_modules
+
+# Allure
+allure-report
+allure-results
+
+# Environmentals
+.env
